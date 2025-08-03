@@ -15,4 +15,15 @@ I'm from up
  <|body>
  <|HTML>
 
+ <html></html> 
+ <head></head>
+<title>.   </title>
+<|head>
+<body>
+this is my first web page 
+<\body>
+</html>
+
+
+
 
