@@ -6,6 +6,11 @@
     <strong> Hyy I'm Anuj Gupta
       <h1> this is my first repository</h1>
     <h2> I'm beginner <br>I'm study in poddar international college in BCA</h2>
+      <ol>
+        <li> wakeup early morning 7am</li>
+        <li> daily do exercise </li>
+        <li> eat healthy food for your health care </li>
+      </ol>
       <font size="10">
       <img src="![Uploading 1710146247584.jpg…]">
 
