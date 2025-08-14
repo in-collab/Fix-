@@ -9,14 +9,11 @@
     <h2> I'm beginner <br>I'm study in poddar international college in BCA
     <h1>Welcome to My Website</h1>
     <p>This is the main content of the page.</p>
-
     <footer>
         <p>&copy; 2025 My Website. All rights reserved.</p>
         <p>Contact: info@mywebsite.com</p>
     </footer>
-
-
-      <ol>
+     <ol>
         <li> wakeup early morning 7am</li>
         <li> daily do exercise </li>
         <li> eat healthy food for your health care </li>
