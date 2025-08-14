@@ -11,6 +11,15 @@
         <li> daily do exercise </li>
         <li> eat healthy food for your health care </li>
       </ol>
+      <div id="header">
+  <h1>Welcome to my website</h1>
+  <p>This is the header section.</p>
+</div>
+
+<div class="main-content">
+  <h2>About Us</h2>
+  <p>Learn more about our company.</p>
+</div>
       <body background="red">
       <font size="10">
       <img src="![Uploading 1710146247584.jpg…]">
