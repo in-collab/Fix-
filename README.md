@@ -11,6 +11,7 @@
         <li> daily do exercise </li>
         <li> eat healthy food for your health care </li>
       </ol>
+      <body background="red">
       <font size="10">
       <img src="![Uploading 1710146247584.jpg…]">
 
