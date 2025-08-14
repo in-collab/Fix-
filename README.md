@@ -1,11 +1,21 @@
 ![1710146247584](https://github.com/user-attachments/assets/4da3f910-b8cd-4332-9181-f0f2a2abe7d6)<html>
+<!doctype html>
   <head>
     <title> hello</title>
   </head>
   <body>
     <strong> Hyy I'm Anuj Gupta
       <h1> this is my first repository</h1>
-    <h2> I'm beginner <br>I'm study in poddar international college in BCA</h2>
+    <h2> I'm beginner <br>I'm study in poddar international college in BCA
+    <h1>Welcome to My Website</h1>
+    <p>This is the main content of the page.</p>
+
+    <footer>
+        <p>&copy; 2025 My Website. All rights reserved.</p>
+        <p>Contact: info@mywebsite.com</p>
+    </footer>
+
+
       <ol>
         <li> wakeup early morning 7am</li>
         <li> daily do exercise </li>
