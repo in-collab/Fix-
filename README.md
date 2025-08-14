@@ -1,7 +1,6 @@
 <html>
   <head>
-    <title>
-  hello</title>
+    <title> hello</title>
   </head>
   <body>
     <strong> Hyy I'm Anuj Gupta</strong>
