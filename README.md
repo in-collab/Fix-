@@ -5,7 +5,7 @@
   <body>
     <strong> Hyy I'm Anuj Gupta
       <h1> this is my first repository</h1>
-    <h2> I'm beginner I'm study in poddar international college in BCA</h2>
+    <h2> I'm beginner <br>I'm study in poddar international college in BCA</h2>
       <font size="10">
       <img src="![Uploading 1710146247584.jpg…]">
 
